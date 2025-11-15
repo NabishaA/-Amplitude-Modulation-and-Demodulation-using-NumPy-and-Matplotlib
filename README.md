@@ -64,7 +64,9 @@ __TABULATION__:
 __CALCULATION__:
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/52e4ee41-4538-45ae-b5e8-f2d220cf69ef" />
 
+
  __Output__:
+ 
 <img width="1080" height="1141" alt="image" src="https://github.com/user-attachments/assets/8a1e6987-088e-42f9-9039-44727a1b65b3" />
 
 
